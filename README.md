@@ -1,0 +1,3 @@
+# webProjectDemo
+JavaWeb连接MySQL
+确保配置好了MySQL和Tomcat
